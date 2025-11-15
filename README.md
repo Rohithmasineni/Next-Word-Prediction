@@ -103,5 +103,14 @@ This project acts as a **foundation** for more advanced NLP tasks or transformer
 
 ---
 
-Feel free to explore, improve, or extend this project!
+## Contact
 
+Feel free to explore the code and resources provided in the uploaded files.  
+If you have any **feedback, suggestions, or ideas for improvement**, I’d love to hear from you!
+
+- 📧 **Email**: rohithmasineni223@email.com  
+- 🔗 **LinkedIn**: [Rohith Kumar Masineni](https://www.linkedin.com/in/rohith-kumar-masineni/)
+
+---
+
+⭐ **If you found this project useful, feel free to star the repository!**
